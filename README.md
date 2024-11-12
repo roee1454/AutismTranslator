@@ -35,4 +35,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # AutismTranslator
-# AutismTranslator
+Getting Started:
+
+Get an openai api key and paste it in a `.env` file like this:
+```.env filename=.env
+  OPENAI_API_KEY=YOUR_API_KEY
+```
+and then `npm run dev`
+
